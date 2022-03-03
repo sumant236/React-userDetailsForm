@@ -1,0 +1,24 @@
+{
+  "employeDetails": [
+    {
+      "name": "Sumant Singh",
+      "age": "23",
+      "address": "Vpo Makrana, Haryana",
+      "department": "Computer Science",
+      "salary": "45000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/2ad98e20-84af-4d9b-86be-9c411fc890a0",
+      "id": 1
+    },
+    {
+      "name": "Pankaj ",
+      "age": "22",
+      "address": "Makrana",
+      "department": "Computer Science",
+      "salary": "40000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/28ca7f37-4429-46fb-9e95-33d87cbb331e",
+      "id": 2
+    }
+  ]
+}
